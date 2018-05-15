@@ -1,4 +1,4 @@
-package com.leucotron.buildexample;
+package com.edgard.buildexample;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

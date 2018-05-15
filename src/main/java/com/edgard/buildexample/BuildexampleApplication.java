@@ -1,4 +1,4 @@
-package com.leucotron.buildexample;
+package com.edgard.buildexample;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.CommandLineRunner;
